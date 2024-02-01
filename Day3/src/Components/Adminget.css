@@ -1,0 +1,15 @@
+.ap-b{
+   
+    background-size: cover;
+    background-position: center;
+    height: 77.1vh;
+    
+    display: flex;
+    color: #f2f2f2;
+    justify-content: center;
+    align-items: center;
+  }
+  .ap-f
+{
+    max-width: 100%;
+}  
